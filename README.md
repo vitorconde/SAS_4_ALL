@@ -14,4 +14,8 @@ a = 10;
 run;
 ```
 
+``` bash
+cd /opt/sas
+```
+
 
