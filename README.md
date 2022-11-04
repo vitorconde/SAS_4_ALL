@@ -1,1 +1,5 @@
 # SAS_4_ALL
+
+``` SQL
+SELECT * FROM XPTO;
+```
